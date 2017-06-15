@@ -1,0 +1,50 @@
+﻿@model Broadband4Wote.Models.studentReference
+
+@{
+    ViewBag.Title = "Reference";
+}
+
+<h2>Reference</h2>
+
+<div>
+    <h4>studentReference</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.isEmailValid)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.isEmailValid)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.key)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.key)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

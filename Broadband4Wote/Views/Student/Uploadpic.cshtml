@@ -1,0 +1,39 @@
+﻿@model Broadband4Wote.Models.profileViewModel
+
+@{
+    ViewBag.Title = "Uploadpic";
+}
+
+<h2>Uploadpic</h2>
+<div class="row">
+    <div class=".col-xs-6 .col-md-4">
+
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-horizontal">
+                <h4>profileViewModel</h4>
+                <hr />
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-1">
+                        @*@Html.TextBoxFor(m => m.url, new { id = "upload", type = "file" , @class="btn btn-defualt" ,accept = "image/x-png, image/gif, image/jpeg",onchange="showImage(this)" })*@
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="submit" value="Create" class="btn btn-success f" />
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+    <div class=".col-xs-6 .col-md-4">
+        <img src="#" alt="..." id="dpfile" class="img-responsive img-thumbnail" >
+    </div>
+</div>
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

@@ -1,0 +1,79 @@
+﻿@model IEnumerable<Broadband4Wote.Models.studentStatus>
+
+@{
+    ViewBag.Title = "status";
+}
+@{
+    <h2>@User.Identity.Name 's status</h2>
+}
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.SignUp)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.signDoc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.viewByUni)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.approveByUni)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.viewedByUhuru)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.readyPick)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.picked)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SignUp)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.signDoc)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.viewByUni)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.approveByUni)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.viewedByUhuru)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.readyPick)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.picked)
+                </td>
+                <td>
+                    @{
+                        if (item.picked)
+                        {
+                            @Html.ActionLink("Yes, I got a PC ", "yes", new AjaxOptions { HttpMethod = "Post" })
+                        }
+                    }
+
+
+                </td>
+            </tr>
+                        }
+    </tbody>
+
+</table>

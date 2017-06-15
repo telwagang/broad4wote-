@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewBag.Title = "StepContainer";
+}
+
+<h2></h2>
+
+<div class="row step-this">
+    <div class="col-xs-12 col-sm-6 col-md-8 center-block hidden one f ">
+        @Html.Partial("Steps/stepOne")
+    </div>
+
+    <div class="col-xs-12 col-sm-6 col-md-8 center-block hidden two f">
+        @Html.Partial("Steps/stepTwo")
+    </div>
+
+    <div class="col-xs-12 col-sm-6 col-md-8 center-block hidden three f">
+        @Html.Partial("Steps/stepThree")
+    </div>
+
+    <div class="col-xs-12 col-sm-6 col-md-8 center-block  hidden four f ">
+        @Html.Partial("Steps/stepFour")
+    </div>
+</div>
+
+<div class="row bottom">
+    <div class=" pull-right">
+        <a class="btn btn-warning btn-lg clicknext"> Next</a>
+    </div>
+    <div class="pull-left">
+        <a class="btn btn-danger btn-lg clickcancel" >Cancel</a>
+    </div>
+</div>

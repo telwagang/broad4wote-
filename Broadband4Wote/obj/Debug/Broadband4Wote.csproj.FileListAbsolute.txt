@@ -1,0 +1,176 @@
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\obj\Debug\Broadband4Wote.csprojResolveAssemblyReference.cache
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\obj\Debug\Broadband4Wote.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\obj\Debug\Broadband4Wote.pdb
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\roslyn\csc.exe
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\roslyn\vbc.exe
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\roslyn\VBCSCompiler.exe
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\roslyn\._csc.exe
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\roslyn\._Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\roslyn\._Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\roslyn\._Microsoft.CodeAnalysis.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\roslyn\._Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\roslyn\._Microsoft.CSharp.Core.targets
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\roslyn\._Microsoft.VisualBasic.Core.targets
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\roslyn\._System.Collections.Immutable.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\roslyn\._System.Reflection.Metadata.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\roslyn\._vbc.exe
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\roslyn\._VBCSCompiler.exe
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\roslyn\._VBCSCompiler.exe.config
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\Broadband4Wote.dll.config
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\Broadband4Wote.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\Broadband4Wote.pdb
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\Antlr3.Runtime.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\EntityFramework.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\EntityFramework.SqlServer.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\Microsoft.Owin.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\Microsoft.Owin.Security.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\Newtonsoft.Json.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\Owin.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\System.Net.Http.Formatting.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\System.Web.Helpers.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\System.Web.Http.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\System.Web.Http.WebHost.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\System.Web.Mvc.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\System.Web.Optimization.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\System.Web.Razor.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\System.Web.WebPages.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\System.Web.WebPages.Razor.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\WebGrease.dll
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\System.Web.Helpers.xml
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\System.Web.Mvc.xml
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\System.Web.Optimization.xml
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\System.Web.Razor.xml
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\System.Web.WebPages.xml
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\System.Web.WebPages.Razor.xml
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\Antlr3.Runtime.pdb
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\Newtonsoft.Json.xml
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\System.Net.Http.Formatting.xml
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\System.Web.Http.xml
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\System.Web.Http.WebHost.xml
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\EntityFramework.xml
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\EntityFramework.SqlServer.xml
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\Microsoft.Owin.xml
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\Microsoft.Owin.Security.xml
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Telwa_gang\Desktop\projects\Broadband4Wote\Broadband4Wote\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\roslyn\csc.exe
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\roslyn\csc.exe.config
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\roslyn\csc.rsp
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\roslyn\csi.exe
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\roslyn\csi.rsp
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\roslyn\System.AppContext.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\roslyn\vbc.exe
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\roslyn\vbc.exe.config
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\roslyn\vbc.rsp
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\roslyn\VBCSCompiler.exe
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\Broadband4Wote.dll.config
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\Broadband4Wote.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\Broadband4Wote.pdb
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\Antlr3.Runtime.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\EntityFramework.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\EntityFramework.SqlServer.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\Microsoft.Owin.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\Microsoft.Owin.Security.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\Newtonsoft.Json.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\Owin.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\System.Net.Http.Formatting.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\System.Web.Helpers.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\System.Web.Http.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\System.Web.Http.WebHost.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\System.Web.Mvc.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\System.Web.Optimization.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\System.Web.Razor.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\System.Web.WebPages.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\System.Web.WebPages.Razor.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\WebGrease.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\Antlr3.Runtime.pdb
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\Newtonsoft.Json.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\System.Web.Helpers.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\System.Web.Mvc.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\System.Web.Optimization.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\System.Web.Razor.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\System.Web.WebPages.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\System.Web.WebPages.Razor.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\System.Net.Http.Formatting.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\System.Web.Http.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\System.Web.Http.WebHost.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\EntityFramework.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\EntityFramework.SqlServer.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\Microsoft.Owin.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\Microsoft.Owin.Security.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\obj\Debug\Broadband4Wote.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\obj\Debug\Broadband4Wote.pdb
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Broadband4Wote\Broadband4Wote\obj\Debug\Broadband4Wote.csprojResolveAssemblyReference.cache
